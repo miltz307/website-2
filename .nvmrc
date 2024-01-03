@@ -1,1 +1,1 @@
-$ echo "5.9" > .nvmrc
+$ echo "node" > .nvmrc # to default to the latest version
