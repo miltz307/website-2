@@ -1,1 +1,2 @@
+nvm use
 $ echo "node" > .nvmrc # to default to the latest version
